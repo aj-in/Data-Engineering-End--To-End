@@ -26,7 +26,7 @@ This repository contains the source code of the End-to-End data pipeline built f
 
 Execution:
 
-Running this code on your machine would require significant conficuration so I am attaching a few of the screenshots of how the execution should look like
+Running this code on your machine would require significant configuration so I am attaching a few screenshots of how the execution should look like
 
 
 <b>All of the resources created in Microsoft Azure </b>
